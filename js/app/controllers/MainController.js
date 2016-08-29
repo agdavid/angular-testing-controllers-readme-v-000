@@ -1,5 +1,5 @@
-function MainController() {
-    this.name = 'Bill Gates';
+function MainController($scope) {
+    this.name = 'Steve Jobs';
 }
 
 angular
